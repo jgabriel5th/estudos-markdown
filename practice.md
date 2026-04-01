@@ -20,5 +20,19 @@ Como funciona as hashtags:
 ##### Título <h5>
 ###### Título <h6> -->
 
+## Lista não ordenada:
+* Aprendendo Python.
+* Aprendendo Git.
+* Aprendendo Markdown.
+* Aprender Cybersegurança.
+
+## Lista ordenada:
+1. Aprender lógica de programação.
+        i. Sintaxe e Semântica.
+2. Dominar uma linguagem de programação.
+        i. Python.
+3. Aprender um framework.
+        i. Django
+
 ### Colocando um link:
 [Meu Github](https://github.com/jgabriel5th) <!-- Bem parecido com o de colocar imagem, a diferença é que não precisa de uma exclamação no início ! -->
