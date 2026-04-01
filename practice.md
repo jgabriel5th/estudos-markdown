@@ -1,5 +1,8 @@
 <!-- Comando usado para colocar um nome na imagem está entre [] e para colocar o link da imagem está entre ().-->
 ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Markdown.png/960px-Markdown.png?_=20170929160611)
+
+[Testando](#outras-funcionalidades) | 
+[Hashtags](#hashtags) | [Lista não ordenada](#lista-não-ordenada) | [Lista ordenada](#lista-ordenada)
 # Testando o Markdown
 Um, dois, três, testando.
 
