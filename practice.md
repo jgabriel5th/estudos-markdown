@@ -13,9 +13,12 @@ Um, dois, três, testando.
 Entendendo o funcionamento do Markdown.
 Como funciona as hashtags:
 
-# Título <h1>
+<!-- # Título <h1>
 ## Título <h2>
 ### Título <h3>
 #### Título <h4>
 ##### Título <h5>
-###### Título <h6>
+###### Título <h6> -->
+
+### Colocando um link:
+[Meu Github](https://github.com/jgabriel5th) <!-- Bem parecido com o de colocar imagem, a diferença é que não precisa de uma exclamação no início ! -->
