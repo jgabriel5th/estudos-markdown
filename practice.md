@@ -36,3 +36,14 @@ Como funciona as hashtags:
 
 ### Colocando um link:
 [Meu Github](https://github.com/jgabriel5th) <!-- Bem parecido com o de colocar imagem, a diferença é que não precisa de uma exclamação no início ! -->
+
+### Testando blockquotes:
+>Blockquote começam com o sinal de maior que(>) antes da frase. Serve para destacar uma parte do código como esta.
+>
+>...
+
+### Colocando códigos
+```py 
+def printMundo():
+        print('Olá mundo')
+```
