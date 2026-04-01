@@ -3,6 +3,10 @@
 # Testando o Markdown
 Um, dois, três, testando.
 
+**Criando uma tasklist**
+- [x] Testando a tasklist.
+- [ ] Terminar a seção de Markdown.
+- [ ] Terminar o curso de Git.
 
 ## Outras funcionalidades
 - Negrito: **testando**
