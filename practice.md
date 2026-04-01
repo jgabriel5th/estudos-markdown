@@ -51,3 +51,9 @@ Como funciona as hashtags:
 def printMundo():
         print('Olá mundo')
 ```
+
+### Criando uma tabela
+Produto | Quantidade | Tipo
+------- | -------- | -------
+Cereal | 30 disponíveis | Alimento
+Café | 20 disponíveis | Alimento
